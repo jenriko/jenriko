@@ -1,5 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h3>Hi there 👋,</h3>
+<p>Welcome to My Profile</p>
+<p>Hi, I'm Jenriko Sinaga, I'm a Web Developer.</p>
 
+[![](https://img.shields.io/badge/-jen_sevendragon-black?logo=instagram&style=flat-square&logoColor=FF7F00)](https://instagram.com/jen_sevendragon)
+</div>
+
+<!-- #### Stats:   -->
+
+<!-- ![Jenriko's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenriko&show_icons=true&theme=radical) -->
+
+<!-- status codes -->
+<!-- <a align="center" href="#">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jenriko&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenriko&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    </p>
+</a> -->
 <!--
 **jenriko/jenriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
