@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/-jen_sevendragon-black?logo=instagram&style=flat-square&logoColor=FF7F00)](https://instagram.com/jen_sevendragon)
     
-![Jenriko's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenriko&count_private=true&show_icons=true&theme=radical)
+<!-- ![Jenriko's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenriko&count_private=true&show_icons=true&theme=radical) -->
     
 </div>
 
