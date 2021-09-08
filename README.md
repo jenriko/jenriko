@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Jenriko Sinaga, I'm a Web Developer.</p>
+<p>Hi, I'm Jenriko Sinaga.</p>
 
 [![](https://img.shields.io/badge/-jen_sevendragon-black?logo=instagram&style=flat-square&logoColor=FF7F00)](https://instagram.com/jen_sevendragon)
     
